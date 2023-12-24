@@ -1,0 +1,17 @@
+/home/dci/Desktop/files-directories-readers/bin/Debug/net8.0/files-directories-readers
+/home/dci/Desktop/files-directories-readers/bin/Debug/net8.0/files-directories-readers.deps.json
+/home/dci/Desktop/files-directories-readers/bin/Debug/net8.0/files-directories-readers.runtimeconfig.json
+/home/dci/Desktop/files-directories-readers/bin/Debug/net8.0/files-directories-readers.dll
+/home/dci/Desktop/files-directories-readers/bin/Debug/net8.0/files-directories-readers.pdb
+/home/dci/Desktop/files-directories-readers/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/dci/Desktop/files-directories-readers/obj/Debug/net8.0/files-directories-readers.csproj.AssemblyReference.cache
+/home/dci/Desktop/files-directories-readers/obj/Debug/net8.0/files-directories-readers.GeneratedMSBuildEditorConfig.editorconfig
+/home/dci/Desktop/files-directories-readers/obj/Debug/net8.0/files-directories-readers.AssemblyInfoInputs.cache
+/home/dci/Desktop/files-directories-readers/obj/Debug/net8.0/files-directories-readers.AssemblyInfo.cs
+/home/dci/Desktop/files-directories-readers/obj/Debug/net8.0/files-directories-readers.csproj.CoreCompileInputs.cache
+/home/dci/Desktop/files-directories-readers/obj/Debug/net8.0/files-directories-readers.csproj.CopyComplete
+/home/dci/Desktop/files-directories-readers/obj/Debug/net8.0/files-directories-readers.dll
+/home/dci/Desktop/files-directories-readers/obj/Debug/net8.0/refint/files-directories-readers.dll
+/home/dci/Desktop/files-directories-readers/obj/Debug/net8.0/files-directories-readers.pdb
+/home/dci/Desktop/files-directories-readers/obj/Debug/net8.0/files-directories-readers.genruntimeconfig.cache
+/home/dci/Desktop/files-directories-readers/obj/Debug/net8.0/ref/files-directories-readers.dll
